@@ -13,3 +13,16 @@ the secrets database.
 * Bootstrap
 * Ejs
 * Node.js
+
+### Most interesting part of the project:
+* implementing the **sign in with google** button.
+
+  ![login app](https://github.com/Hozei/secrets-project/assets/122771226/05ab070d-5d26-43c6-8f38-7e0d91e1ef9b)
+
+# How to view project or Run:
+* check package.json file
+* run npm install to install dependencies
+* hit nodemon index.js to get the server running
+* then go to http://localhost:3000/ to view the project in your browser.
+
+   
